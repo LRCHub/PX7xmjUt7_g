@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ナイナイ恋煩い♡",
+  "base_artist": "iLiFE!",
+  "createdAt": "2026-01-05T04:51:28.271900Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ナイナイ恋煩い♡",
+      "artist": "iLiFE!",
+      "has_synced": false,
+      "path": "select/pl_01_ナイナイ恋煩い♡_iLiFE!.txt"
+    }
+  ]
+}
